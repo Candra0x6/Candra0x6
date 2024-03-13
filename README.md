@@ -3,8 +3,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Candra</h1>
-<h3 align="center">A passionate Programmer from Indo​</h3>
-<p align="center">Passionate at FrontEnd Developer</p>
+<h3 align="center">A passionate Programmer from Indo ⚠️​</h3>
+<p align="center">Junior FrontEnd Developer</p>
 <p align="center"> 
 </p>
 <div align="center">
@@ -20,7 +20,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/BdoF35ZV8owAAAAd/kanao-tsuyuri.gif">
 <br><br>
 
 - 🔭 I’m currently studying on **SMKN 2 SURAKARTA**
