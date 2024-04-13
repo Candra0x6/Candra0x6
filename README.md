@@ -23,17 +23,9 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/BdoF35ZV8owAAAAd/kanao-tsuyuri.gif">
 <br><br>
 
-- 🔭 I’m currently studying on **SMKN 2 SURAKARTA**
-
 - 🌱 I’m currently learning **Next JS & React Native**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://movie-SAIL.vercel.app)
-
-- 💬 Ask me about **React JS**
-
 - 📫 How to reach me **kurniawancandram@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 - ⚡ Fun fact **airbender**
 
