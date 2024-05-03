@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **kurniawancandram@gmail.com**
 
-- ⚡ Fun fact **airbender**
+- 🎒 School **SMKN 2 SURAKARTA**
 
 <br>
 <h3 align="left">Connect with me:</h3>
