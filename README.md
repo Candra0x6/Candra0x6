@@ -20,7 +20,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/BdoF35ZV8owAAAAd/kanao-tsuyuri.gif">
+<img align="right" alt="Coding" width="400" src="20240709_103616.jpg ">
 <br><br>
 
 - 🌱 I’m currently learning **Next JS & React Native**
