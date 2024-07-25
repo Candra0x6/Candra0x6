@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kurniawan Candra Mahardika</h1>
-<h3 align="center">A passionate Programmer from Indo🧑‍💻​</h3>
+<h3 align="center">Sigma Code 🗣​</h3>
 <p align="center">Junior FrontEnd Developer</p>
 <p align="center"> 
 </p>
