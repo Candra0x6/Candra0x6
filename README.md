@@ -17,7 +17,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="20240709_103616.jpg ">
+<img align="right" alt="Coding" width="400" src="EwjQ9D8UUAIn4Ik.jpeg">
 <br><br>
 
 - 🌱 I’m currently learning **Next JS & React Native**
