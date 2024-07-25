@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **kurniawancandram@gmail.com**
 
-- 🎒 School **SMKN 2 SURAKARTA**
+- 🎒 School **Massachusetts Institute of Technology [MIT]**
 
 <br>
 <h3 align="left">Connect with me:</h3>
