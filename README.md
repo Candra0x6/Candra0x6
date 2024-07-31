@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **kurniawancandram@gmail.com**
 
-- 🎒 School **Massachusetts Institute of Technology [MIT]**
+- 🎒 School **President University [PU]**
 
 <br>
 <h3 align="left">Connect with me:</h3>
