@@ -23,9 +23,6 @@
 - 🌱 I’m currently learning **Next JS & React Native**
 
 - 📫 How to reach me **kurniawancandram@gmail.com**
-
-- 🎒 School **President University [PU]**
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
