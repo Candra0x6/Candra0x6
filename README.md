@@ -6,16 +6,11 @@
 </p>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-
-</div>
 
 <img align="right" alt="Coding" width="400" src="EwjQ9D8UUAIn4Ik.jpeg">
 <br><br>
