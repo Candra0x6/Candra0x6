@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kurniawan Candra Mahardika</h1>
-<h3 align="center">Sigma Code 🗣​</h3>
-<p align="center">Junior FrontEnd Developer</p>
+<h3 align="center">Newbie Developer</h3>
 <p align="center"> 
 </p>
 <div align="center">
@@ -12,7 +11,7 @@
 <br>
 
 
-<img align="right" alt="Coding" width="400" src="EwjQ9D8UUAIn4Ik.jpeg">
+
 <br><br>
 
 - 🌱 I’m currently learning **Next JS & React Native**
