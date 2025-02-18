@@ -12,8 +12,7 @@
 
 <br><br>
 
-- 🌱 **Next JS & React Native**
-
+- 🌱 **Next JS & Rust**
 - 📫 How to reach me **kurniawancandram@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
