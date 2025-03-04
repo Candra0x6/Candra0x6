@@ -12,7 +12,7 @@
 
 <br><br>
 
-- 🌱 **Next JS & Go**
+- 🌱 **Solidity**
 - 📫 How to reach me **kurniawancandram@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
