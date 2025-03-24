@@ -17,6 +17,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  KURNIAWAN CANDRA MAHARDIKA
 </a>
 https://portfolio-candra.vercel.app/
 </p>
