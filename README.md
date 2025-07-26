@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </a>
-https://portfolio-candra.vercel.app/
+https://portofolio-phi-blond.vercel.app/
 </p>
 <br>
 
